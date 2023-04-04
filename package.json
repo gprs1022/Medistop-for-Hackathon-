@@ -1,0 +1,27 @@
+{
+  "name": "medistop-for-hackathon-",
+  "version": "1.0.0",
+  "description": "For the medistop ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TammyAlok2/Medistop-for-Hackathon-.git"
+  },
+  "author": "Team Dawn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TammyAlok2/Medistop-for-Hackathon-/issues"
+  },
+  "homepage": "https://github.com/TammyAlok2/Medistop-for-Hackathon-#readme",
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "express": "^4.18.2",
+    "jwt-token": "^1.0.9",
+    "mongoose": "^7.0.3",
+    "multer": "^1.4.5-lts.1",
+    "nodemon": "^2.0.22"
+  }
+}
